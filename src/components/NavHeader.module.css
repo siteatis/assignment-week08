@@ -1,0 +1,8 @@
+.link {
+  color: var(--link-colour);
+  padding: 20px;
+  font: bold;
+  &:hover {
+    background-color: var(--accent-colour);
+  }
+}

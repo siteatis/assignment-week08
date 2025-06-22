@@ -1,5 +1,7 @@
 WEEK 08 ASSIGNMENT
 
+I've abandoned this assignment again, for the same reasons as the earlier ones. It's designed and largely ready to finish off but (apart from throwing the forms and buttons in place and writing a bit of logic for them) I've reached the point where too much of what's left is the stuff from earlier weeks that I've never had time to go back and learn, like CSS, and the stuff that I can't learn because it builds on those things. So it'll have to do as it is. I think it's more or less completely non-functional as it stands but I'll see about deploying it anyway (on principle)!
+
 Reflection
 Please also provide an assignment reflection in your project README.md file.
 
